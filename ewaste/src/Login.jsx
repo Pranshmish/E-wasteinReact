@@ -7,7 +7,7 @@ function Login() {
   return (
     <div className="container">
       <div className="logo">
-        <Link to="/">Logo</Link>
+        <Link to="/">LOGO</Link>
       </div>
       <div className="form-container sign-up">
         <div className="innerbox">
